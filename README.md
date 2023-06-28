@@ -1,1 +1,1 @@
-# loyalty-campaign-api
+# Loyalty Campaign API
